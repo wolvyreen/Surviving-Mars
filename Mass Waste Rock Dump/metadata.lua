@@ -6,10 +6,11 @@ return PlaceObj('ModDef', {
 	'id', "hYQEmzQ",
 	'steam_id', "1335658889",
 	'author', "Spectre9000",
-	'version', 61,
+	'version', 81,
 	'lua_revision', 228184,
 	'code', {
-		"Code/LockOriginalDumpSite.lua",
+		"Code/locksOriginalDumpingSite.lua",
+		"Code/setsAvailableResources.lua",
 	},
-	'saved', 1522516856,
+	'saved', 1522575514,
 })
